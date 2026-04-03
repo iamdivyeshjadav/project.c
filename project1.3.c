@@ -11,4 +11,9 @@ int main()
 
 }
 /*
+first angle
+A=65
+second angle
+B=45
+ans 70:
 */
