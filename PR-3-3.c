@@ -9,3 +9,9 @@ int main()
 	first_digit=i;
 	printf("the sum of last and first digit is:%d",first_digit+last_digit);
 }
+/* 
+enter any number
+12776
+the sum of last and first digit is:7
+--------------------------------
+*/
