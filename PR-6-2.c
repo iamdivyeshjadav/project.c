@@ -11,7 +11,8 @@ int main()
 		if(ch[d]=='0')
 		continue;
 		int k;
-		for(k=d+1;ch[k]!='\0';k++){
+		for(k=d+1;ch[k]!='\0';k++)
+		{
 			if(ch[d]==ch[k]){
 			count++;
 			ch[k]='0';
